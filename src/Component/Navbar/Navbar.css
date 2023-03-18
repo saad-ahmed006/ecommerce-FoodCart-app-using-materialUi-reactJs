@@ -1,0 +1,13 @@
+.NavbarFirstGrid{
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  padding-left: 0.5rem;
+}
+.NavbarSecondGrid{
+  height: 4rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 2rem;
+}
